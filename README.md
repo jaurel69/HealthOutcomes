@@ -3,21 +3,21 @@
 ## 📁 Project Structure
 ```
 CS2545_HealthOutcomes/
-├── MiniProject-Pierre-Ekotto.ipynb    # Main analysis notebook
-├── README.md                          # This file
-├── data/                             # Raw and cleaned datasets
+├── MiniProject-Pierre-Ekotto.ipynb    
+├── README.md                        
+├── data/                           
 │   ├── BMI.csv
 │   ├── Death_By_Cause.csv
 │   ├── Life_Expectancy_Canada_2000_to_2007.csv
 │   ├── Perceived_Health_Canada_2015.csv
 │   └── cleaned_bmi_data.csv
-├── visualizations/                   # Generated charts and plots
+├── visualizations/                 
 │   ├── average_obesity_rate_by_province.png
 │   ├── correlation_matrix_health_indicators.png
 │   ├── life_expectancy_by_province.png
 │   ├── mortality_rates_heatmap.png
 │   └── perceived_health_by_province.png
-└── docs/                            # Documentation and reports
+└── docs/                          
     ├── CS2545_Pierre_Proposal.docx
     ├── MiniProject-Pierre-Ekotto.pdf
     └── MiniProject-Pierre-Ekotto.zip
